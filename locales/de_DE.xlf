@@ -1,32 +1,31 @@
-<!-- messages.de.xlf -->
-<?xml version="1.0"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-    <file source-language="ts_TS" datatype="plaintext" original="file.ext">
-        <body>
-            <trans-unit id="built_with_love">
-                <source>Built with love.</source>
-                <target>Built with love.</target>
-            </trans-unit>
-            <trans-unit id="main_menu">
-                <source>Main menu</source>
-                <target>Hauptmenü</target>
-            </trans-unit>
-            <trans-unit id="logout_header">
-                <source>Logout</source>
-                <target>Abmelden</target>
-            </trans-unit>
-            <trans-unit id="login_header">
-                <source>Login</source>
-                <target>Anmelden</target>
-            </trans-unit>
-            <trans-unit id="overview">
-                <source>Overview</source>
-                <target>Übersicht</target>
-            </trans-unit>
-            <trans-unit id="logout_message">
-                <source>Thank you for using this Tool. See you soon!</source>
-                <target>Danke für die Nutzung dieses Tools. Bis bald!</target>
-            </trans-unit>
-      </body>
-    </file>
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="file.ext" datatype="plaintext" source-language="ts_TS" target-language="de">
+    <body>
+      <trans-unit id="built_with_love">
+        <source xml:lang="ts_TS">Built with love.</source>
+        <target xml:lang="de">Mit Liebe gemacht.</target>
+      </trans-unit>
+      <trans-unit id="login_header">
+        <source xml:lang="ts_TS">Login</source>
+        <target xml:lang="de">Anmelden</target>
+      </trans-unit>
+      <trans-unit id="logout_header">
+        <source xml:lang="ts_TS">Logout</source>
+        <target xml:lang="de">Abmelden</target>
+      </trans-unit>
+      <trans-unit id="logout_message">
+        <source xml:lang="ts_TS">Thank you for using this Tool. See you soon!</source>
+        <target xml:lang="de">Thank you for using this Tool. See you soon!</target>
+      </trans-unit>
+      <trans-unit id="main_menu">
+        <source xml:lang="ts_TS">Main menu</source>
+        <target xml:lang="de">Hauptmenü</target>
+      </trans-unit>
+      <trans-unit id="overview">
+        <source xml:lang="ts_TS">Overview</source>
+        <target xml:lang="de">Übersicht</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
