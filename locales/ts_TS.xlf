@@ -26,6 +26,14 @@
         <source xml:lang="ts_TS">Overview</source>
         <target xml:lang="ts_TS">Overview</target>
       </trans-unit>
+      <trans-unit id="save">
+        <source xml:lang="ts_TS">Save</source>
+        <target xml:lang="ts_TS">Speichern</target>
+      </trans-unit>
+      <trans-unit id="submit">
+        <source xml:lang="ts_TS">Submit</source>
+        <target xml:lang="ts_TS">Senden</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
