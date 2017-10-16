@@ -5,7 +5,7 @@
         <body>
             <trans-unit id="built_with_love">
                 <source>Built with love.</source>
-                <target>Mit Liebe gemacht.</target>
+                <target>Built with love.</target>
             </trans-unit>
             <trans-unit id="main_menu">
                 <source>Main menu</source>
