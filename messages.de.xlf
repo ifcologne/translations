@@ -24,7 +24,7 @@
                 <target>Übersicht</target>
             </trans-unit>
             <trans-unit id="logout_message">
-                <source>Thank you for using this tool. See you soon!</source>
+                <source>Thank you for using this Tool. See you soon!</source>
                 <target>Danke für die Nutzung dieses Tools. Bis bald!</target>
             </trans-unit>
       </body>
