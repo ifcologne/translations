@@ -1,0 +1,20 @@
+<!-- messages.de.xlf -->
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="built_with_love">
+                <source>Built with love.</source>
+                <target>Mit Liebe gemacht.</target>
+            </trans-unit>
+            <trans-unit id="main_menu">
+                <source>Main menu</source>
+                <target>Hauptmenü</target>
+            </trans-unit>
+            <trans-unit id="logout_header">
+                <source>Logout</source>
+                <target>Abmelden</target>
+            </trans-unit>
+      </body>
+    </file>
+</xliff>
