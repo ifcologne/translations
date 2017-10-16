@@ -4,7 +4,7 @@ phraseapp:
   file_format: "yml"
   push:
     sources:
-    - file: "./*.yml"
+    - file: "./locales/*.yml"
   pull:
     targets:
-    - file: "./<locale_name>.yml"
+    - file: "./locales/<locale_name>.yml"
