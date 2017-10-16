@@ -15,6 +15,10 @@
                 <source>Logout</source>
                 <target>Abmelden</target>
             </trans-unit>
+            <trans-unit id="login_header">
+                <source>Login</source>
+                <target>Anmelden</target>
+            </trans-unit>
       </body>
     </file>
 </xliff>
