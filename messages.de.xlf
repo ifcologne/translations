@@ -19,6 +19,10 @@
                 <source>Login</source>
                 <target>Anmelden</target>
             </trans-unit>
+            <trans-unit id="overview">
+                <source>Overview</source>
+                <target>Übersicht</target>
+            </trans-unit>
       </body>
     </file>
 </xliff>
